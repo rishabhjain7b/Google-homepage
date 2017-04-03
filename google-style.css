@@ -1,0 +1,70 @@
+//body{
+//	background: url('IMG_20160823_072805.jpg');
+//	background-size: repeat ;
+//}
+.google{
+	font-family: sans-serif;
+	font-size: 80px;
+	position: absolute;
+	left: 40%;
+	top: 35%;
+
+}
+
+#g1, #g2{
+	color: blue;
+}
+
+#o1, #e{
+	color: red;
+}
+
+#o2{
+	color: yellow;
+}
+
+#l{
+	color: green;
+}
+
+#search-bar{
+	position: absolute;
+	left: 40%;
+	top: 50%;
+	height: 30px;
+	width: 280px;
+}
+
+.india{
+	color: blue;
+	position: absolute;
+	left: 58%;
+	top: 46%;
+}
+
+.btns{
+	position: absolute;
+	left: 42%;
+	top: 56%;
+	padding: 8px;
+	color: #666666;
+	border: none;
+}
+
+#lucky-btn{
+	margin-left: 125px;
+
+}
+
+.btns-hover{
+	border: 1px solid #777777;
+	color: #222222;
+}
+.lang{
+	position: absolute;
+	left: 40%;
+	top: 60%;
+}
+a{
+	text-decoration: none;
+}
